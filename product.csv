@@ -1,0 +1,11 @@
+product_id,name,category,gender,color,occasion,price_range,fabric
+1,Black Cotton T-Shirt,TShirt,Men,Black,Casual,Low,Cotton
+2,White Cotton T-Shirt,TShirt,Men,White,Casual,Low,Cotton
+3,Blue Denim Jeans,Jeans,Men,Blue,Casual,Mid,Denim
+4,Red Party Dress,Dress,Women,Red,Party,High,Silk
+5,Black Evening Dress,Dress,Women,Black,Party,High,Silk
+6,Green Kurti,Kurti,Women,Green,Ethnic,Mid,Cotton
+7,Blue Kurti,Kurti,Women,Blue,Ethnic,Mid,Cotton
+8,Black Formal Shirt,Shirt,Men,Black,Formal,Mid,Cotton
+9,White Formal Shirt,Shirt,Men,White,Formal,Mid,Cotton
+10,Blue Casual Shirt,Shirt,Men,Blue,Casual,Low,Cotton
